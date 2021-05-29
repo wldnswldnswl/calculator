@@ -20,8 +20,6 @@ expression(계산식): 3+4*5
 *,/ : 계산식에 누적해준다.
 
 ![featurelist](https://user-images.githubusercontent.com/45230079/120078503-da2a0800-c0ea-11eb-8d6c-da6ad2c3e0b7.png)
-기능: 5+8*3 (식 보여주기), =누르면 결과 계산 (29)
-
 AC: 완전 초기화
 
 ## 3. 컴포넌트 설계
